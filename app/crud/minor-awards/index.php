@@ -36,7 +36,7 @@
 </head>
 <body>
     <div class="container py-5">
-        <h2 class="fw-bolder">BOWA-BOWAAN 2023</h2>
+        <h2 class="fw-bolder">KARANOWAN 2026</h2>
     </div>
     <div>
         <table>

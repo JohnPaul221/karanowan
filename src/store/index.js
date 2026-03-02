@@ -12,7 +12,7 @@ export default createStore({
 
     state: {
         app: {
-            title: 'Bowa-Bowaan Street Dancing Competition 2024',
+            title: 'Karanowan Street Dancing Competition 2026',
             org: 'ACLC College Iriga',
             backendDir: 'app',
             sideNav: false

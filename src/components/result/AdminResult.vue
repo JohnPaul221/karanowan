@@ -297,9 +297,7 @@
         style="page-break-before: always;"
     >
         <v-col cols="12" sm="9" md="7" lg="5">
-            <div class="mb-2" align="center">
-                <img src="/competition.png" style="width: 256px;" alt="Event">
-            </div>
+
             <div style="padding: 15px">
                 <table class="table-winners" style="width: 100%">
                     <tbody>
